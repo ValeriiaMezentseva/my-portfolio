@@ -67,8 +67,6 @@ padding-right: 30px;
   }
   }
 
-
-
 `;
 
 
@@ -77,29 +75,6 @@ export const Img = styled.img`
   height: 100%;
 border-radius: 10px;
 cursor: pointer;
-
-      /* @media screen and (min-width: 560px) {
-        width: 400px;
-  height: 300px;
-  }
-
-       @media screen and (min-width: 480px) {
-         width: 320px;
-  height: 230px; 
-  }
-         @media screen and (min-width: 360px) {
-         width: 280px;
-  height: 180px;
-  } */
-
-          /* @media screen and (min-width: 780px) {
-       width: 400px; 
-  }
-
-            @media screen and (min-width: 600px) {
-       width: 300px; 
-  }  */
-
 
 `;
 

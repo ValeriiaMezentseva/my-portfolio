@@ -174,11 +174,11 @@ const Projects = () => {
                         <ProjectText>{project.text}</ProjectText>
                         <LinksBox>
                         
-                            <SocialsLink href={project.linkGH}> <GitHubIcon /> <span>Code</span></SocialsLink>
+                            <SocialsLink href={project.linkGH} target="_blank" rel='noreferrer'> <GitHubIcon /> <span>Code</span></SocialsLink>
                          
-                            <SocialsLink href={project.linkWeb}><LinkIcon /> <span>Website</span> </SocialsLink>
+                            <SocialsLink href={project.linkWeb} target="_blank" rel='noreferrer'><LinkIcon /> <span>Website</span> </SocialsLink>
                             {project.linkBack && (
-                                <SocialsLink href={project.linkBack}><BackIcon/><span>Backend</span></SocialsLink>
+                                <SocialsLink href={project.linkBack} target="_blank" rel='noreferrer'><BackIcon/><span>Backend</span></SocialsLink>
                             )}
                             </LinksBox>
               
