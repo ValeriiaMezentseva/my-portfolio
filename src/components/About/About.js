@@ -125,10 +125,10 @@ const About = () => {
                
              <SocialsTitle> Contact me </SocialsTitle>
             <SocialsBox>
-            <SocialsLink href="https://github.com/ValeriiaMezentseva">
+            <SocialsLink target="_blank" rel='noreferrer' href="https://github.com/ValeriiaMezentseva">
                 <GitHubIcon />
                 </SocialsLink>
-                <SocialsLink href="https://www.linkedin.com/in/valeriia-mezentseva/">
+                <SocialsLink target="_blank" rel='noreferrer' href="https://www.linkedin.com/in/valeriia-mezentseva/">
                     <LinkedInIcon /> 
                 </SocialsLink>
                 <SocialsLink href="mailto:mezencevavalerie@gmail.com">
