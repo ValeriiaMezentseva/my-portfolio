@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.87709574.css",
-    "main.js": "/my-portfolio/static/js/main.ff9cf2ff.js",
+    "main.js": "/my-portfolio/static/js/main.bc21ec18.js",
     "static/js/589.47bd4559.chunk.js": "/my-portfolio/static/js/589.47bd4559.chunk.js",
     "static/js/254.99638478.chunk.js": "/my-portfolio/static/js/254.99638478.chunk.js",
     "static/js/446.1f998282.chunk.js": "/my-portfolio/static/js/446.1f998282.chunk.js",
@@ -40,7 +40,7 @@
     "static/media/logoDark.png": "/my-portfolio/static/media/logoDark.6a06587fcdcf60d01e17.png",
     "static/media/Disket-Mono-Bold.ttf": "/my-portfolio/static/media/Disket-Mono-Bold.295e11be396c5e39698b.ttf",
     "static/media/Disket-Mono-Regular.ttf": "/my-portfolio/static/media/Disket-Mono-Regular.7377dd2a75631272ed00.ttf",
-    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.c97b738b2810cc7b40fe.pdf",
+    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.6790769a395f833e6faf.pdf",
     "static/media/13.png": "/my-portfolio/static/media/13.9670e7693bffbf8342a2.png",
     "static/media/12.png": "/my-portfolio/static/media/12.6dfb06ef44a3513e0f1b.png",
     "static/media/ws2.png": "/my-portfolio/static/media/ws2.15a81480ed69621b6f18.png",
@@ -49,7 +49,7 @@
     "static/media/14.png": "/my-portfolio/static/media/14.84f2d8db34677a263ecf.png",
     "index.html": "/my-portfolio/index.html",
     "main.87709574.css.map": "/my-portfolio/static/css/main.87709574.css.map",
-    "main.ff9cf2ff.js.map": "/my-portfolio/static/js/main.ff9cf2ff.js.map",
+    "main.bc21ec18.js.map": "/my-portfolio/static/js/main.bc21ec18.js.map",
     "589.47bd4559.chunk.js.map": "/my-portfolio/static/js/589.47bd4559.chunk.js.map",
     "254.99638478.chunk.js.map": "/my-portfolio/static/js/254.99638478.chunk.js.map",
     "446.1f998282.chunk.js.map": "/my-portfolio/static/js/446.1f998282.chunk.js.map",
@@ -58,6 +58,6 @@
   },
   "entrypoints": [
     "static/css/main.87709574.css",
-    "static/js/main.ff9cf2ff.js"
+    "static/js/main.bc21ec18.js"
   ]
 }
